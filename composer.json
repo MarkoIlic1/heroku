@@ -1,0 +1,12 @@
+{
+    "name": "ln-github/heroku1",
+    "description": "vjezba",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "^9"
+
+    }
+}
